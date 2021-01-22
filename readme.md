@@ -1,0 +1,1 @@
+## My attempt on making a crypto currency
